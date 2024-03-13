@@ -1,0 +1,6 @@
+변수 타입 종류
+
+논리형 = boolean (true, false)
+문자형+문자열 = char, String (문자 저장)
+정수형 = char,byte,short,int,long (정수 저장)
+실수형 = float,double (실수 저장)

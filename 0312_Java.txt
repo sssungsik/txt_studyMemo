@@ -1,0 +1,22 @@
+클래스에 대한 이해.
+
+교재 202 ~ 244 참고
+PPT 참고
+
+인스턴스 멤버 : public 에 static이 없음
+	예) public void test1 () {
+	호출) 클래스이름 이름= new 클래스이름();
+		new 선언 시 호출가능
+	실습) Korean.txt,  Main_Korean.txt 참고
+
+
+
+정적 멤버 : public 에 static이 붙음
+	예) public static void test1 () {
+	호출) 메인에 클래스이름.test1(); 시 바로 호출가능
+____________________________________________________________________________________________
+리턴(Return) 구문 수업 - 메서드를 종료하고 호출한 곳으로 돌아간다는 의미.
+실습 - Car.txt,   Main_Car.txt 참고
+
+오버로딩(Overloading) 수업 - 메서드 이름은 같고, 변수의 타입/개수/순서가 다른 메서드를 여러 개 선언하는 것.
+실습 - Overloading.txt,  Main_Overloading.txt참고
